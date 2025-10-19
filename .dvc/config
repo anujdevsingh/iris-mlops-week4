@@ -1,4 +1,4 @@
 [core]
-    remote = gdrive
-['remote "gdrive"']
-    url = gdrive://1NO5cfLCNWj9yfx2lEfTZYacmQQU7c1Nt
+    remote = gcs
+['remote "gcs"']
+    url = gs://iris_week4_mlops_secure-medium-473910-f8
